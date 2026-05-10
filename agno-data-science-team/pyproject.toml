@@ -1,0 +1,22 @@
+[project]
+name = "agno-data-science-team"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno>=2.2.1",
+    "ddgs>=9.6.1",
+    "duckdb>=1.4.1",
+    "fastapi[standard]>=0.120.1",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "openai>=2.6.1",
+    "pandas>=2.3.3",
+    "pip>=25.3",
+    "python-dotenv>=1.2.1",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.44",
+    "uvicorn>=0.38.0",
+]
